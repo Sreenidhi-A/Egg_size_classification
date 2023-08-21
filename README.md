@@ -1,4 +1,4 @@
-EGG SIZE CLASSIFICATION DEEP LEARNING ALGORITHMS
+**Egg Size Classification Using Deep Learning Techniques**
 
 It is clear that the egg is very important in human food basket. Offspring size is a fundamental trait 
 in disparate biological fields of study. Egg size may be the third most important factor in determining 
