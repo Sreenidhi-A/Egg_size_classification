@@ -1,0 +1,2 @@
+# Egg_size_classification_and_accuracy_of_weight_prediction
+EGG SIZE CLASSIFICATION AND ACCURACY OF WEIGHT PREDICTION
