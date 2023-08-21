@@ -1,4 +1,4 @@
-EGG SIZE CLASSIFICATION AND ACCURACY OF WEIGHT PREDICTION USING MACHINE LEARNING & DEEP LEARNING ALGORITHMS
+EGG SIZE CLASSIFICATION DEEP LEARNING ALGORITHMS
 
 It is clear that the egg is very important in human food basket. Offspring size is a fundamental trait 
 in disparate biological fields of study. Egg size may be the third most important factor in determining 
@@ -8,6 +8,4 @@ The size classification system provides useful information not only for consumer
 The current model focusses on determining whether the egg is normal egg (medium) or Ostrich egg (large) based on the size of the images of various eggs.
 Tensorflow and Keras frameworks have been used as keras is better for small datasets. Nineteen types of 
 eggs are taken as reference with each 5 records of various observations. Species, Length and width of the 
-egg are the main parameters considered for the study. Further selected ML Techniques viz. Decision Tree, 
-Random Forest, Linear Regression, Lasso Regression, and Ridge Regression are applied to determine the 
-accuracy scores. The results have been interpreted and visualized.
+egg are the main parameters considered for the study. 
